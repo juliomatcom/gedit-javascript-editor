@@ -16,4 +16,4 @@ Go to windows menu bar > **Edit** > **Preferences** and set this options
 
 #### Install plugins
 - `$ sudo apt-get install gedit-plugins`  
-  Go to **Edit** > **Preferences** > **Plugins** and check the plugins you like
+- Go to **Edit** > **Preferences** > **Plugins** and check the plugins you like
