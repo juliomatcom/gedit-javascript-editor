@@ -21,6 +21,7 @@ Go to windows menu bar > **Edit** > **Preferences** and set this options
 - Go to **Edit** > **Preferences** > **Plugins** and check the plugins you like
 
 #### Add snippets for js
-- Download the snippets file: [js.xml](https://raw.githubusercontent.com/juliomatcom/gedit-javascript-editor/master/js.xml) to your computer
+( js.xml was improved from the original [elson/gedit-javascript-snippet](https://github.com/elson/gedit-javascript-snippets) )
+- **Download** the snippets file: [js.xml](https://raw.githubusercontent.com/juliomatcom/gedit-javascript-editor/master/js.xml) to your computer
 - Go to **Tools** > **Preferences** > **Manage snippets...** and click in **Import Snippets** icon
 - Select the **js.xml** downloaded
