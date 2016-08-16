@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<snippets language="js">
+  <snippet>
+    <text><![CDATA[{
+	${0}
+}]]></text>
+    <tag>b</tag>
+    <description>block</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[${1:condition} ? ${2:if_true} : ${3:if_false}]]></text>
+    <tag>?</tag>
+    <description>conditional</description>
+  </snippet>
+  <snippet>
+    <description>console.log</description>
+    <tag>cl</tag>
+    <text><![CDATA[console.log(${1:first_argument})]]></text>
+  </snippet>
+  <snippet>
+    <text><![CDATA[const ${1:name} = ${2:value}]]></text>
+    <tag>const</tag>
+    <description>const</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[do {
+   ${1:statement}
+}
+while ( ${2:condition} );
+]]></text>
+    <tag>dowhile</tag>
+    <description>do..while</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[@example
+	${0}]]></text>
+    <tag>example</tag>
+    <description>@example</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[for ( ${1:initial}; ${2:condition}; ${3:end} ) {
+	${4:statements}
+}
+]]></text>
+    <tag>for</tag>
+    <description>for</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[for ( ${1:prop} in ${2:obj} ) {
+	${3:statements}
+}]]></text>
+    <tag>forin</tag>
+    <description>for..in</description>
+  </snippet>
+  <snippet>
+    <description>function</description>
+    <tag>f</tag>
+    <text><![CDATA[function (${1:first_argument}) {
+	$0
+}]]></text>
+  </snippet>
+  <snippet>
+    <text><![CDATA[/**
+	@name ${1:func_name}
+	@function
+	@description ${2:description}
+*/
+function ${1} () {
+	${3:statements}
+} // End ${1}]]></text>
+    <tag>func</tag>
+    <description>function</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[if ( ${1:condition} ) {
+	${2:statements}
+}]]></text>
+    <tag>if</tag>
+    <description>if</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[if ( ${1:condition} ) {
+	${2:statement_1}
+}
+else {
+	${3:statement_2}
+}]]></text>
+    <tag>ifelse</tag>
+    <description>if..else</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[let ${1:name} = ${2:value}]]></text>
+    <tag>let</tag>
+    <description>let</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[/**
+	@name ${1:parent}.${2:method_name}
+	@function
+	@description ${3:description}
+*/
+${2}: function () {
+	${5:statements}
+}${4:,} // End ${2}]]></text>
+    <tag>method</tag>
+    <description>method</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[/**
+	@name ${1:module_name}
+	@namespace
+	@description ${2:description}
+*/
+var ${1} = function () {
+  
+  // Private
+  
+  // Public
+  
+  return {
+    ${0}
+  };
+
+}(); // End ${1}]]></text>
+    <tag>module</tag>
+    <description>module</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[param {${1:type}} ${2:name} ${3:description}	]]></text>
+    <tag>param</tag>
+    <description>@param</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[returns {${1:return_type}} ${2:description}]]></text>
+    <tag>returns</tag>
+    <description>@returns</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[switch ( ${1:expression} ) {
+	case ${2:label_1}:
+		${3:statement_1}
+		break;
+	case ${4:label_2}:
+		${5:statement_2}
+		break;
+	case ${6:label_3}:
+		${7:statement_3}
+		break;
+	default:
+		${8:statement_def}
+		break;
+}
+]]></text>
+    <tag>switch</tag>
+    <description>switch</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[try {
+   ${1:statement_1}
+}
+catch ( ${2:error} ) {
+   ${3:statement_2}
+}]]></text>
+    <tag>tc</tag>
+    <description>try..catch</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[try {
+   ${1:statement_1}
+}
+catch ( ${2:error} ) {
+   ${3:statement_2}
+}
+finally {
+	${4:statement_3}
+}]]></text>
+    <tag>tcf</tag>
+    <description>try..catch..finally</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[var ${1:vname} = ${2:value}]]></text>
+    <tag>var</tag>
+    <description>var</description>
+  </snippet>
+  <snippet>
+    <text><![CDATA[while ( ${1:condition} ) {
+	${2:statement}
+}]]></text>
+    <tag>while</tag>
+    <description>while</description>
+  </snippet>
+</snippets>
