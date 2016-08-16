@@ -1,5 +1,7 @@
 # gedit-javascript-editor
 Use gedit as a **javascript editor** :fire: Snippets, highlight syntax and more...  
+
+![Quick view](assets/gedit.gif)
 ### Quick steps
 1- Setup preferences  
 2- Install plugins  
@@ -10,6 +12,6 @@ Use gedit as a **javascript editor** :fire: Snippets, highlight syntax and more.
 Go to windows menu bar > **Edit** > **Preferences** and set this options  
 
 - View  
-![View preferences configuration](preferences/preferences_view.png)
+![View preferences configuration](assets/preferences_view.png)
 - Editor  
-![Editor preferences configuration](preferences/preferences_editor.png)
+![Editor preferences configuration](assets/preferences_editor.png)
