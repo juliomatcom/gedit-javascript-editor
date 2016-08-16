@@ -15,3 +15,7 @@ Go to windows menu bar > **Edit** > **Preferences** and set this options
 ![View preferences configuration](assets/preferences_view.png)
 - Editor  
 ![Editor preferences configuration](assets/preferences_editor.png)
+
+#### Install plugins
+- `$ sudo apt-get install gedit-plugins`  
+- Go to **Edit** > **Preferences** > **Plugins** and check the plugins you like
