@@ -13,14 +13,14 @@
     <description>conditional</description>
   </snippet>
   <snippet>
-    <description>console.log</description>
-    <tag>cl</tag>
     <text><![CDATA[console.log(${1:first_argument})]]></text>
+    <tag>cl</tag>
+    <description>console.log</description>
   </snippet>
   <snippet>
     <text><![CDATA[const ${1:name} = ${2:value}]]></text>
-    <tag>const</tag>
     <description>const</description>
+    <tag>const</tag>
   </snippet>
   <snippet>
     <text><![CDATA[do {
@@ -53,11 +53,11 @@ while ( ${2:condition} );
     <description>for..in</description>
   </snippet>
   <snippet>
-    <description>function</description>
-    <tag>f</tag>
     <text><![CDATA[function (${1:first_argument}) {
 	$0
 }]]></text>
+    <description>function</description>
+    <tag>f</tag>
   </snippet>
   <snippet>
     <text><![CDATA[/**
@@ -72,7 +72,7 @@ function ${1} () {
     <description>function</description>
   </snippet>
   <snippet>
-    <text><![CDATA[if ( ${1:condition} ) {
+    <text><![CDATA[if (${1:condition}) {
 	${2:statements}
 }]]></text>
     <tag>if</tag>
@@ -90,8 +90,8 @@ else {
   </snippet>
   <snippet>
     <text><![CDATA[let ${1:name} = ${2:value}]]></text>
-    <tag>let</tag>
     <description>let</description>
+    <tag>let</tag>
   </snippet>
   <snippet>
     <text><![CDATA[/**
