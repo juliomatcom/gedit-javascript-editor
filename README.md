@@ -6,7 +6,7 @@ Use gedit as a **javascript editor** :fire: Snippets, highlight syntax and more.
   - [Setup preferences](https://github.com/juliomatcom/gedit-javascript-editor#setup-preferences)  
   - [Install plugins](https://github.com/juliomatcom/gedit-javascript-editor#install-plugins)  
   - [Add snippets](https://github.com/juliomatcom/gedit-javascript-editor#add-snippets-for-js)  
-  - Improve javascript laguage for ES6 *(optional)*
+  - [Improve javascript laguage for ES6](https://github.com/juliomatcom/gedit-javascript-editor#improve-the-javascript-laguage) *(optional)*
 
 #### Setup preferences  
 Go to windows menu bar > **Edit** > **Preferences** and set this options  
