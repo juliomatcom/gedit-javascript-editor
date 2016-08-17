@@ -11,10 +11,13 @@ Use gedit as a **javascript editor** :fire: Snippets, highlight syntax and more.
 #### Setup preferences  
 Go to windows menu bar > **Edit** > **Preferences** and set this options  
 
-- View  
+- Tab **View**  
 ![View preferences configuration](assets/preferences_view.png)
-- Editor  
+- Tab **Editor**  
+*Note:* Check **File Saving** is optional
 ![Editor preferences configuration](assets/preferences_editor.png)
+- Tab **Font & Colors**  
+  Choose one theme
 
 #### Install plugins
 - `$ sudo apt-get install gedit-plugins`  
