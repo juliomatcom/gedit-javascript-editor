@@ -14,7 +14,7 @@ Go to windows menu bar > **Edit** > **Preferences** and set this options
 - Tab **View**  
 ![View preferences configuration](assets/preferences_view.png)
 - Tab **Editor**  
-*Note:* Check **File Saving** is optional
+*Note:* Check **File Saving** is optional  
 ![Editor preferences configuration](assets/preferences_editor.png)
 - Tab **Font & Colors**  
   Choose one theme
