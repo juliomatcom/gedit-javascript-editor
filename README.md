@@ -1,7 +1,7 @@
 # gedit-javascript-editor
 Use gedit as a **javascript editor** :fire: Snippets, highlight syntax and more...  
 
-![Quick view](assets/gedit.gif)
+![Quick view](assets/gedit2.gif)
 ### Quick steps
 1- Setup preferences  
 2- Install plugins  
