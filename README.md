@@ -3,10 +3,10 @@ Use gedit as a **javascript editor** :fire: Snippets, highlight syntax and more.
 
 ![Quick view](assets/gedit2.gif)
 ### Quick steps
-1- Setup preferences  
-2- Install plugins  
-3- Add snippets / autocomplete  
-4- Add configuration files  
+  - [Setup preferences](https://github.com/juliomatcom/gedit-javascript-editor#setup-preferences)  
+  - [Install plugins](https://github.com/juliomatcom/gedit-javascript-editor#install-plugins)  
+  - [Add snippets](https://github.com/juliomatcom/gedit-javascript-editor#add-snippets-for-js)  
+  - Add configuration files  
 
 #### Setup preferences  
 Go to windows menu bar > **Edit** > **Preferences** and set this options  
