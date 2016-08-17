@@ -30,8 +30,7 @@ Go to windows menu bar > **Edit** > **Preferences** and set this options
 *do this if you use ES6 and want some new keywords highlighted*
 
 -  [**Download**](https://raw.githubusercontent.com/juliomatcom/gedit-javascript-editor/master/javascript.lang) the lang file: [javascript.lang](https://raw.githubusercontent.com/juliomatcom/gedit-javascript-editor/master/javascript.lang) to your computer
-- copy the file as sudo  
-`$ cp path/to/the/javascript.lang /usr/share/gtksourceview-3.0/language-specs/javascript.lang`  
+- `$ sudo cp path/to/the/javascript.lang /usr/share/gtksourceview-3.0/language-specs/javascript.lang`  
 - restart gedit
 
 [MIT](http://licsource.com/mit?name=Julio%20Cesar%20Martin&year=2016&email=juliomatcom@gmail.com&url=http://julces.com/)
