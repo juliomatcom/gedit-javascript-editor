@@ -1,7 +1,7 @@
 # gedit-javascript-editor
 Making gedit a **javascript editor** :fire: Snippets, highlight syntax and more...  
 
-![Quick view](assets/gedit2.gif)
+![Quick view](https://github.com/juliomatcom/gedit-javascript-editor/raw/master/assets/gedit2.gif)
 ### Quick steps
   - [Setup preferences](https://github.com/juliomatcom/gedit-javascript-editor#setup-preferences)  
   - [Install plugins](https://github.com/juliomatcom/gedit-javascript-editor#install-plugins)  
@@ -12,10 +12,10 @@ Making gedit a **javascript editor** :fire: Snippets, highlight syntax and more.
 Go to windows menu bar > **Edit** > **Preferences** and set this options  
 
 - Tab **View**  
-![View preferences configuration](assets/preferences_view.png)
+![View preferences configuration](https://github.com/juliomatcom/gedit-javascript-editor/raw/master/assets/preferences_view.png)
 - Tab **Editor**  
 *Note:* Check **File Saving** is optional  
-![Editor preferences configuration](assets/preferences_editor.png)
+![Editor preferences configuration](https://github.com/juliomatcom/gedit-javascript-editor/raw/master/assets/preferences_editor.png)
 - Tab **Font & Colors**  
   Choose one theme
 
