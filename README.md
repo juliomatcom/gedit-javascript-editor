@@ -36,4 +36,4 @@ Go to windows menu bar > **Edit** > **Preferences** and set this options
 - `$ sudo cp path/to/the/javascript.lang /usr/share/gtksourceview-3.0/language-specs/javascript.lang`  
 - restart gedit
 
-[MIT](http://licsource.com/mit?name=Julio%20Cesar%20Martin&year=2016&email=juliomatcom@gmail.com&url=http://julces.com/)
+[MIT](https://twitter.com/juliomatcom)
