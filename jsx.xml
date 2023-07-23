@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<snippets language="js">
+<snippets language="jsx">
   <snippet>
     <tag>arrow</tag>
     <text><![CDATA[ ${1} = (${2}) => {
