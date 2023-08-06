@@ -21,19 +21,14 @@ Go to windows menu bar > **Edit** > **Preferences** and set this options
 
 #### Install plugins
 - `$ sudo apt-get install gedit-plugins`  
-- Go to **Edit** > **Preferences** > **Plugins** and check the plugins you like
+- Go to **Menu** > **Preferences** > **Plugins** and check the plugins you like
+  - Remember to select the **Snippets** plugin
+- restart gedit  
 
 #### Add snippets for js
 ( js.xml was improved from the original [elson/gedit-javascript-snippet](https://github.com/elson/gedit-javascript-snippets) )
 - [**Download**](https://raw.githubusercontent.com/juliomatcom/gedit-javascript-editor/master/js.xml) the snippets file: [js.xml](https://raw.githubusercontent.com/juliomatcom/gedit-javascript-editor/master/js.xml) to your computer
-- Go to **Tools** > **Preferences** > **Manage snippets...** and click in **Import Snippets** icon
+- Go to **Menu** > **Manage snippets...** and click in **Import Snippets** icon
 - Select the **js.xml** downloaded  
-
-#### Improve the javascript laguage
-*do this if you use ES6 and want some new keywords highlighted*
-
--  [**Download**](https://raw.githubusercontent.com/GNOME/gtksourceview/951416c9ccf8a2f266649010767964e1cd7f2594/data/language-specs/javascript.lang) the lang file: [javascript.lang](https://raw.githubusercontent.com/GNOME/gtksourceview/951416c9ccf8a2f266649010767964e1cd7f2594/data/language-specs/javascript.lang) to your computer
-- `$ sudo cp path/to/the/javascript.lang /usr/share/gtksourceview-3.0/language-specs/javascript.lang`  
-- restart gedit
 
 [MIT](https://twitter.com/juliomatcom)
