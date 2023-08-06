@@ -1,5 +1,5 @@
 # gedit-javascript-editor
-Making gedit a **javascript editor** :fire: Snippets, highlight syntax and more...  
+Making gedit a **blazingly fast** modern web editor :fire: Snippets, highlight syntax and more...  
 
 ![Quick view](https://github.com/juliomatcom/gedit-javascript-editor/raw/master/assets/gedit.png)
 ### Quick steps
