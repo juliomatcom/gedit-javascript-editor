@@ -24,10 +24,10 @@ Go to windows menu bar > **Edit** > **Preferences** and set this options
   - Remember to select the **Snippets** plugin
 - restart gedit  
 
-#### Add snippets for js
+#### Add snippets for js / jsx
 ( js.xml was improved from the original [elson/gedit-javascript-snippet](https://github.com/elson/gedit-javascript-snippets) )
-- [**Download**](https://raw.githubusercontent.com/juliomatcom/gedit-javascript-editor/master/js.xml) the snippets file: [js.xml](https://raw.githubusercontent.com/juliomatcom/gedit-javascript-editor/master/js.xml) to your computer
+- Download the snippets files: [js.xml](https://raw.githubusercontent.com/juliomatcom/gedit-javascript-editor/master/js.xml) and [jsx.xml](https://raw.githubusercontent.com/juliomatcom/gedit-javascript-editor/master/jsx.xml) to your computer
 - Go to **Menu** > **Manage snippets...** and click in **Import Snippets** icon
-- Select the **js.xml** downloaded  
+- Select the **js.xml** / **jsx.xml** downloaded  
 
 [MIT](https://twitter.com/juliomatcom)
